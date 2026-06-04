@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou o Maylon
 
-Tenho 21 anos e estudo programação desde 2020, quando iniciei o curso técnico de **Análise e Desenvolvimento de Sistemas** pela **ETEC de Poá**.
+Tenho 22 anos e estudo programação desde 2020, quando iniciei o curso técnico de **Análise e Desenvolvimento de Sistemas** pela **ETEC de Poá**.
 
 Após um período afastado da área por motivos pessoais e profissionais, retomei meus estudos em **dezembro de 2025**, de forma estruturada e consciente, com foco em me tornar um **desenvolvedor backend**.
 
