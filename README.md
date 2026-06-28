@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou o Maylon
+# Olá, eu sou o Maylon
 
 Tenho 22 anos e estudo programação desde 2020, quando iniciei o curso técnico de **Análise e Desenvolvimento de Sistemas** pela **ETEC de Poá**.
 
@@ -7,7 +7,7 @@ Após um período afastado da área por motivos pessoais e profissionais, retome
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Meu objetivo é construir uma base sólida em desenvolvimento backend, passando por:
 
@@ -23,7 +23,7 @@ Sempre priorizando **entendimento real dos conceitos**, e não apenas o uso supe
 
 ---
 
-## 📚 O que estou estudando atualmente
+## O que estou estudando atualmente
 
 No momento, estou revisando e fortalecendo:
 
@@ -35,7 +35,7 @@ Esse processo envolve revisitar conceitos desde a base para identificar e corrig
 
 ---
 
-## 🗂 Organização dos repositórios
+## Organização dos repositórios
 
 - **curso-em-video-python**  
   Repositório dedicado à revisão de lógica de programação e Python desde o início, com foco em base sólida e documentação clara.
@@ -45,6 +45,6 @@ Esse processo envolve revisitar conceitos desde a base para identificar e corrig
 
 ---
 
-## 🚀 Observação final
+## Observação final
 
 Este GitHub é utilizado como um **registro contínuo da minha evolução** nos estudos e projetos, priorizando clareza, organização e aprendizado consciente.
